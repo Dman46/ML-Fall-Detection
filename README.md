@@ -1,2 +1,2 @@
 # Machine-Learning-Fall-Detection
-Machine Learning Fall Detection Team Project for Artificial Intelligence Course
+Machine Learning Fall Detection Team Project for Artificial Intelligence Course APS360
